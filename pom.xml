@@ -42,9 +42,9 @@
 
         <!-- MySQL driver -->
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
+           <artifactId>mysql-connector-java</artifactId>
+<version>8.0.33</version>
+<scope>runtime</scope>
         </dependency>
 
         <!-- H2 in-memory DB - lets you run the project instantly with no MySQL setup -->
